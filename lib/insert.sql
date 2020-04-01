@@ -1,0 +1,26 @@
+INSERT INTO users (name, age) VALUES ("Bethany Jenkins", 27);
+INSERT INTO users (name, age) VALUES ("Hannah Montana", 26);
+INSERT INTO users (name, age) VALUES ("Spongebob Squarepants", 4);
+INSERT INTO users (name, age) VALUES ("Patrick Star", 26);
+INSERT INTO users (name, age) VALUES ("Squidward Tentacles", 40);
+INSERT INTO users (name, age) VALUES ("Eugine Crabs", 76);
+INSERT INTO users (name, age) VALUES ("Pearl Crabs", 26);
+INSERT INTO users (name, age) VALUES ("Plankton", 37);
+INSERT INTO users (name, age) VALUES ("Sandy Cheeks", 29);
+INSERT INTO users (name, age) VALUES ("Larry Lobster", 64);
+INSERT INTO users (name, age) VALUES ("LeBron James", 35);
+INSERT INTO users (name, age) VALUES ("Kyrie Irving", 27);
+INSERT INTO users (name, age) VALUES ("Anthony Davis", 26);
+INSERT INTO users (name, age) VALUES ("Rajon Rondo", 32);
+INSERT INTO users (name, age) VALUES ("Jesus Christ", 33);
+INSERT INTO users (name, age) VALUES ("Bob Belcher", 56);
+INSERT INTO users (name, age) VALUES ("Linda Belcher", 54);
+INSERT INTO users (name, age) VALUES ("Tina Belcher", 13);
+INSERT INTO users (name, age) VALUES ("ALouise Belcher", 9);
+INSERT INTO users (name, age) VALUES ("Gene Belcher", 11);
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("God's Love We Deliver", "Hunger", 700, "1/1/19", "6/30/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Meals on Wheels", "Hunger", 500, "1/1/20", "4/30/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Relay for Life", "Cancer", 1000, "4/1/19", "8/30/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Children's Miracle Network", "Children", 2000, "1/1/20", "8/30/20");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("God's Love We Deliver", "Hunger", 700, "1/1/19", "6/30/19");
